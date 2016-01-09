@@ -1,0 +1,28 @@
+name: Berliner
+favicon: null
+layout_spectrum: 0.6895943484269083
+typography_spectrum: 0.8959102481603622
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.05594507488422096
+  lightness: 0.4180469266138971
+  saturation: 0.9526911175344139
+  rhythmicContrast: 0.48378700809553266
+purpose: []
