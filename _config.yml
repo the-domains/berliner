@@ -1,7 +1,7 @@
 name: Berliner
 favicon: null
-layout_spectrum: 0.6895943484269083
-typography_spectrum: 0.8959102481603622
+layout_spectrum: 0.78172
+typography_spectrum: 0.65805
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.05594507488422096
+  brandStrength: 0.1875
   lightness: 0.4180469266138971
   saturation: 0.9526911175344139
   rhythmicContrast: 0.48378700809553266
